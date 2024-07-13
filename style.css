@@ -1679,7 +1679,13 @@ nav a:any-link{
             font-size: 1.2rem;
             overflow: auto;
         }
+:is(.section__three) input,textarea{
+ 
+    width:inherit;
+}
         .skill__set{
             
             width: inherit;
+
     }
+}

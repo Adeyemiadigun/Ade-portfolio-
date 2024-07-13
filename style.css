@@ -1509,8 +1509,8 @@ nav a:any-link{
              font-size:1.1rem;
              box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
              text-align:  center;
-             min-height: 600px;
-             
+             min-height: 720px;
+             overflow:auto;
              
          }
              .menubut{

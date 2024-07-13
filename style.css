@@ -1646,7 +1646,7 @@ nav a:any-link{
          }
          .aboutme__article{
              
-                min-height: 600px;
+                min-height: 710px;
                  }
              .title-line{
              display: flex;
@@ -1659,13 +1659,13 @@ nav a:any-link{
          .skill__p{
             display:flex;
             justify-content: space-between;
-            width:75%;
+            width:250px;
         
         }
         .prog__bar{
             height: 5px;
             background-color:#d4d2bd; 
-            width:75%px;
+            width:250px;
             border-radius: 10px;
         } 
         
@@ -1677,7 +1677,8 @@ nav a:any-link{
             font-size: 1.2rem;
         }
         .aboutme__article p{
-            line-height: 1.5;
+            line-height: 1.3;
             font-size: 1.2rem;
+            overflow: auto;
         }
     }
